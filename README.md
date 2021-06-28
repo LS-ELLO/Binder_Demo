@@ -1,7 +1,7 @@
 # Binder_Demo
 
 [Binder 홈페이지 바로가기](https://mybinder.org/) <br>
-[Pull Request 바로가기](https://github.com/LS-ELLO/Binder_Demo/pull/1)
+[Pull Request 탭 바로가기](https://github.com/LS-ELLO/Binder_Demo/pull/1)
 
 <br>
 
